@@ -4,7 +4,7 @@
 
 ## About Project
 
-Dogs have been our loyal companions for thousands of years, providing love, companionship, and protection. They come in various shapes, sizes, and temperaments, each breed with its own unique characteristics. In recent years, there has been growing interest in understanding the various dog breeds, as this knowledge helps in identifying breed-specific health issues and guides us in building strong connections with these lovable creatures.
+Dogs have been our loyal companions for thousands of years, providing love, companionship, and protection. They come in various shapes, sizes, and temperaments, each breed with its own unique characteristics. There always been growing interest in understanding the various dog breeds, as this knowledge helps in identifying breed-specific health issues and guides us in building strong connections with these lovable creatures.
 
 In this project, we have developed a dog breed classifier using Convolutional Neural Networks (CNN) that can accurately identify a dog's breed from its image. This classifier can be useful for potential pet owners looking to learn more about the breed of a dog they wish to adopt or for those who simply want to understand the breed-specific characteristics of their furry friends.
 
