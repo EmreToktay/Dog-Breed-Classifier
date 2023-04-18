@@ -1,6 +1,6 @@
 
-<img src="lili1.jpg" alt="Image description" width="200"/>
-<img src="lili2.jpg" alt="Image description" width="200"/>
+<img src="lili1.jpg" alt="Image description" width="300"/> <img src="lili2.jpg" alt="Image description" width="300"/>
+
 
 ## About Project
 
