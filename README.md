@@ -1,7 +1,8 @@
 
-![Image description](lili1.jpg) "Sample Output"
-![Image description](lili2.jpg) "VGG-16 Model Keras Layers"
+<img src="lili1.jpg" alt="Image description" width="200"/>
+<img src="lili2.jpg" alt="Image description" width="200"/>
 
+## About Project
 
 Dogs have been our loyal companions for thousands of years, providing love, companionship, and protection. They come in various shapes, sizes, and temperaments, each breed with its own unique characteristics. In recent years, there has been growing interest in understanding the various dog breeds, as this knowledge helps in identifying breed-specific health issues and guides us in building strong connections with these lovable creatures.
 
