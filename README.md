@@ -13,8 +13,8 @@ In this project, we have developed a dog breed classifier using Convolutional Ne
 
 In this project, a dog breed classifier is developed using Convolutional Neural Networks (CNN). Given an image of a dog, the classifier is able to predict the breed of the dog with high accuracy. The model can also distinguish between human and dog images, and if a human image is provided, it will suggest the most resembling dog breed.
 
-![Image description][labrador.png]
-![Image description][britanny.png]
+<img src="labrador.png" alt="Image description" width="400"/>         <img src="britanny.png" alt="Image description" width="400"/>        
+
 
 ## Project Instructions
 
