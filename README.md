@@ -108,7 +108,7 @@ __NOTE:__ While some code has already been implemented to get you started, you w
 
 ## Evaluation
 
-The performance of the model is evaluated using test set accuracy. The higher the test set accuracy, the better the model is at classifying the dog breeds. The final model achieves a test accuracy of 80.50%.
+The performance of the model is evaluated using test set accuracy. The higher the test set accuracy, the better the model is at classifying the dog breeds. The final model achieves a test accuracy of 81.22%.
 
 ## Archival Note
 
